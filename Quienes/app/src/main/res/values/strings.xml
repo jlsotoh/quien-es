@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Quienes</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="hello_world">Aplicación para detectar rostros!</string>
+    <string name="action_settings">Configuración</string>
 
 </resources>
